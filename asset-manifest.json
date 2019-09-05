@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-svg-drag-and-drop/static/css/main.869e4a8f.chunk.css",
+    "main.js": "/react-svg-drag-and-drop/static/js/main.7b5f2c8a.chunk.js",
+    "main.js.map": "/react-svg-drag-and-drop/static/js/main.7b5f2c8a.chunk.js.map",
+    "runtime~main.js": "/react-svg-drag-and-drop/static/js/runtime~main.fec8cd62.js",
+    "runtime~main.js.map": "/react-svg-drag-and-drop/static/js/runtime~main.fec8cd62.js.map",
+    "static/css/2.53dc0e97.chunk.css": "/react-svg-drag-and-drop/static/css/2.53dc0e97.chunk.css",
+    "static/js/2.7300e902.chunk.js": "/react-svg-drag-and-drop/static/js/2.7300e902.chunk.js",
+    "static/js/2.7300e902.chunk.js.map": "/react-svg-drag-and-drop/static/js/2.7300e902.chunk.js.map",
+    "index.html": "/react-svg-drag-and-drop/index.html",
+    "precache-manifest.bccebc1459040d663470591ad2df1fb8.js": "/react-svg-drag-and-drop/precache-manifest.bccebc1459040d663470591ad2df1fb8.js",
+    "service-worker.js": "/react-svg-drag-and-drop/service-worker.js",
+    "static/css/2.53dc0e97.chunk.css.map": "/react-svg-drag-and-drop/static/css/2.53dc0e97.chunk.css.map",
+    "static/css/main.869e4a8f.chunk.css.map": "/react-svg-drag-and-drop/static/css/main.869e4a8f.chunk.css.map"
+  }
+}
